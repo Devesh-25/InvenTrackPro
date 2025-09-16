@@ -437,7 +437,7 @@ git push origin feature/inventory-management
 
 **Developer**: Devesh Baria
 **Email**: devesh.baria.in@gmail.com
-**LinkedIn**: [Devesh Baria]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/deveshbaria2503/))
+**LinkedIn**: [Devesh Baria]([https://www.linkedin.com/in/deveshbaria2503/])
 
 ## 🙏 Acknowledgments
 
